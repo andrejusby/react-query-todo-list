@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-query-todo-list/static/css/main.60de1cab.css",
+    "main.js": "/react-query-todo-list/static/js/main.290860c3.js",
+    "index.html": "/react-query-todo-list/index.html",
+    "main.60de1cab.css.map": "/react-query-todo-list/static/css/main.60de1cab.css.map",
+    "main.290860c3.js.map": "/react-query-todo-list/static/js/main.290860c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60de1cab.css",
+    "static/js/main.290860c3.js"
+  ]
+}
